@@ -1,8 +1,4 @@
-Image Classification with Transfer Learning using MobileNetV2
-This repository contains code for image classification using transfer learning with TensorFlow and the MobileNetV2 pre-trained model. Transfer learning is a technique where a model trained on a large dataset (such as ImageNet) is fine-tuned on a specific task, in this case, image classification for a custom dataset.
-
-Description:
-Reading and Preprocessing Images: The code utilizes OpenCV to read and preprocess images. It loads images from a specified directory, checks their validity, and visualizes them using Matplotlib.## Image Classification with Transfer Learning using MobileNetV2
+### Image Classification with Transfer Learning using MobileNetV2
 
 This repository contains code for image classification using transfer learning with TensorFlow and the MobileNetV2 pre-trained model. Transfer learning is a technique where a model trained on a large dataset (such as ImageNet) is fine-tuned on a specific task, in this case, image classification for a custom dataset.
 
@@ -33,3 +29,11 @@ This repository contains code for image classification using transfer learning w
 - TensorFlow
 - OpenCV
 - Matplotlib
+
+### Contributions:
+
+Contributions to this project are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
+
+### License:
+
+This project is licensed under the [MIT License](LICENSE).
