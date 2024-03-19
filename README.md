@@ -30,10 +30,3 @@ This repository contains code for image classification using transfer learning w
 - OpenCV
 - Matplotlib
 
-### Contributions:
-
-Contributions to this project are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
-
-### License:
-
-This project is licensed under the [MIT License](LICENSE).
